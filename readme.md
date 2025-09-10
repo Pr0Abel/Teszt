@@ -20,7 +20,7 @@
 ## tavoli repo letrehozasa, osszekapcs
 - github új repo lerehozas
 - összekapcsolas
-    > git remote add origin https://github.com/pr0abel/Teszt.git
+    > git remote add origin https://token@github.com/Pr0Abel/Teszt.git
 - elso push
     > git push -u origin master
 - további push
